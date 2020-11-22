@@ -4,3 +4,5 @@ A little project based on one of my friend's giant list of restaurants that he h
 Thought it would be fun to turn it into a program where you can filter the restaurants based on what 
 type of food they are, and/or filter based on if the restaurant is casual dining or if you would take someone
 out on a date/special occasion and what not.
+
+Uses the TkInter module for the gui. Uses SqLite3 because I didn't think using MySql was appropriate for a project of this size.
